@@ -5,6 +5,7 @@ feature-based development cycle
 MVC
 using specs
 syncronous models and schemas
+separation of concerns
 
 link to repo
 

@@ -3,7 +3,8 @@ learning objectives
 application design / file structures
 further object orientation
 testing
-mvc-lh
+mvc-lh  
+inheritance and factories
 
 link to project repo
 
